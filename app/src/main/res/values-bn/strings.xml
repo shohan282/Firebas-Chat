@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">আড্ডা</string>
+    <string name="email">ইমেইল</string>
+    <string name="change">Change Language</string>
+    <string name="lan">English</string>
+    <string name="msg">Select English from ভাষা</string>
+    <string name="ok">Ok</string>
+    <string name="enter">প্রবেশ</string>
+    <string name="name">নাম</string>
+    <string name="pass">পাসওয়ার্ড</string>
+    <string name="noob">নতুন? তাহলে এখানে</string>
+    <string name="send">পাঠাও</string>
+</resources>

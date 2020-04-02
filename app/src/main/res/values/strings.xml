@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="email">Email</string>
+    <string name="change">ভাষা পাল্টান</string>
+    <string name="lan">বাংলা</string>
+    <string name="msg">Language থেকে বাংলা নির্বাচন করুন</string>
+    <string name="ok">ঠিকাছে</string>
+    <string name="pass">Password</string>
+    <string name="enter">Enter</string>
+    <string name="name">Name</string>
+    <string name="noob">make account here</string>
+    <string name="send">Send</string>
+</resources>
